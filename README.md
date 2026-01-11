@@ -11,24 +11,46 @@
 ---
 
 ## 🚀 Projects
-### [Sarathi-Ai](https://github.com/krit-vardhan-mishra) | *Flutter & AI Integration*
-* Developed an AI-driven career guidance platform for Indian students (Grades 8-12).
-* Integrated a recommendation engine for personalized career paths and mentor feedback loops.
 
-### [SyncTax](https://github.com/krit-vardhan-mishra) | *ML-Based Music Player*
-* Architected an **offline-first** Android player with privacy-preserving, on-device ML.
-* Used **Chaquopy** to run Python-based recommendation models directly on Kotlin agents.
+### 🌐 Web Development
+#### [SmartC.V.](https://github.com/krit-vardhan-mishra/SmartC.V.) | *MERN Stack & Python NLP*
+* ATS Score Checker & Resume Builder built with MERN Stack + Python NLP.
+* Features drag-and-drop resume builder, multiple templates, and intelligent ATS scoring using cosine similarity and keyword analysis.
 
-### [Incisive](https://github.com/krit-vardhan-mishra) | *Full-Stack Web*
+#### [InfantCareCompass](https://github.com/krit-vardhan-mishra/InfantCareCompass) | *Healthcare & Real-time Communication*
+* Comprehensive infant care platform with video call integration for doctor consultations.
+* Built with Express.js backend and React frontend.
+
+#### [Blog Web App](https://github.com/krit-vardhan-mishra/blog-web-app) | *Full-Stack Web*
+* Full-stack blogging platform with authentication, error boundaries, and modern React architecture.
+* Features user authentication and content management.
+
+#### [Incisive](https://github.com/krit-vardhan-mishra/incisive-cul-private) | *Full-Stack Web*
 * Redesigned the "Center for Unlearning and Learning" site using **Next.js 15** and TypeScript.
 * Optimized performance via **SSG (Static Site Generation)** and Tailwind CSS.
 
-### [Real-Time Chat App](https://github.com/krit-vardhan-mishra/real-time-chat-app)  | *Featured*
-  * Scalable messaging platform built with **MERN Stack** and **Socket.io** for instant, bi-directional communication.
-  
-### [Well-being Waitlist](https://github.com/krit-vardhan-mishra) | *Hospital Management*
+#### [Real-Time Chat App](https://github.com/krit-vardhan-mishra/real-time-chat-app) | *Featured*
+* Scalable messaging platform built with **MERN Stack** and **Socket.io** for instant, bi-directional communication.
+
+#### [Well-being Waitlist](https://github.com/krit-vardhan-mishra/Well-being-Waitlist) | *Hospital Management*
 * Built a patient prioritization system using **Spring-Boot** and React.
 * Automated emergency level assignment using a Python AI model.
+
+### 📱 Mobile Development
+#### [Sarathi-Ai](https://github.com/krit-vardhan-mishra/Sarathi-Ai) | *Flutter & AI Integration*
+* Developed an AI-driven career guidance platform for Indian students (Grades 8-12).
+* Integrated a recommendation engine for personalized career paths and mentor feedback loops.
+
+#### [SyncTax](https://github.com/krit-vardhan-mishra/SyncTax) | *ML-Based Music Player*
+* Architected an **offline-first** Android player with privacy-preserving, on-device ML.
+* Used **Chaquopy** to run Python-based recommendation models directly on Kotlin agents.
+
+### 💻 DSA Practice & Competitive Programming
+#### [Kunal Kushwaha DSA Bootcamp](https://github.com/krit-vardhan-mishra/Kunal-Kushwaha-DSA-Bootcamp-Assignment)
+* Comprehensive Data Structures & Algorithms solutions following Kunal Kushwaha's bootcamp curriculum.
+
+#### [Strivers A2Z DSA Sheet](https://github.com/krit-vardhan-mishra/Strivers-A2Z-DSA-Sheet)
+* Complete solutions for Strivers A2Z DSA Sheet covering graphs, trees, dynamic programming, and more.
 
 ---
 
@@ -56,11 +78,6 @@
 * **B.Tech, Computer Science & Engineering** | Phonics Group Of Institutions, Roorkee (2023 – 2027)
 * **Senior Secondary (XII)** | Bal Mandir Sec School, Haridwar (61.50%)
 * **Secondary (X)** | Police Modern School Welfare Society, Haridwar (75.20%)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krit-vardhan-mishra&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
