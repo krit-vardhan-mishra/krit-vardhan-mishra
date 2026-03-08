@@ -1,7 +1,7 @@
 # 💫 About Me:
 **Android Developer & Aspiring Software Engineer** specializing in creating native, high-performance mobile experiences, robust Full-Stack Web architectures, and intelligent Machine Learning solutions.
 
-* 🎥 **Cinema Buff:** Ask me about cinematography or screenplay structure.
+* 🎥 **Cinema Buff:** Ask me about cinema and I'll start yapping.
 * 🛠️ **Tech Enthusiast:** I love dissecting the "behind the scenes" of complex systems.
 * 💬 **Current Focus:** Leveling up my communication skills and building scalable apps.
 
