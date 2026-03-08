@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Aspiring Software Engineer** specializing in Android Development, Full-Stack Web, and Machine Learning. 
+**Android Developer & Aspiring Software Engineer** specializing in creating native, high-performance mobile experiences, robust Full-Stack Web architectures, and intelligent Machine Learning solutions.
 
 * 🎥 **Cinema Buff:** Ask me about cinematography or screenplay structure.
 * 🛠️ **Tech Enthusiast:** I love dissecting the "behind the scenes" of complex systems.
@@ -12,14 +12,30 @@
 
 ## 🚀 Projects
 
-### 🌐 Web Development
-#### [SmartC.V.](https://github.com/krit-vardhan-mishra/SmartC.V.) | *MERN Stack & Python NLP*
-* ATS Score Checker & Resume Builder built with MERN Stack + Python NLP.
-* Features drag-and-drop resume builder, multiple templates, and intelligent ATS scoring using cosine similarity and keyword analysis.
+### 📱 Mobile Development
+#### [File-Flip](https://github.com/krit-vardhan-mishra/File-Flip) | *Android & Productivity*
+* An offline Android editor and converter. Edit Markdown, JSON, CSV and more.
+* Features in-app previews and styled PDF exports for ultimate productivity.
 
-#### [InfantCareCompass](https://github.com/krit-vardhan-mishra/InfantCareCompass) | *Healthcare & Real-time Communication*
-* Comprehensive infant care platform with video call integration for doctor consultations.
-* Built with Express.js backend and React frontend.
+#### [SyncTax](https://github.com/krit-vardhan-mishra/SyncTax) | *ML-Based Music Player*
+* Architected an **offline-first** Android player with privacy-preserving, on-device ML.
+* Used **Chaquopy** to run Python-based recommendation models directly on Kotlin agents.
+
+#### [Sarathi-Ai](https://github.com/krit-vardhan-mishra/Sarathi-Ai) | *Flutter & AI Integration*
+* Developed an AI-driven career guidance platform for Indian students (Grades 8-12).
+* Integrated a recommendation engine for personalized career paths and mentor feedback loops.
+
+### 🌐 Web Development
+#### [Bank-Kiosk](https://github.com/krit-vardhan-mishra/bank-kiosk) | *AI & Multimodal Integration*
+* A comprehensive banking AI kiosk and agent dashboard for seamless customer interactions.
+* Integrates RAG, multimodal (voice and text), and multilingual support for Indian languages.
+
+#### [Campus-Whisper](https://github.com/krit-vardhan-mishra/Campus-Whisper) | *Real-time Communications*
+* Real-time anonymous campus chat application with dynamic UI. 
+* Highly scalable platform that thrives on completely unfiltered, twisting stories across users.
+
+#### [Real-Time Chat App](https://github.com/krit-vardhan-mishra/real-time-chat-app) | *Featured*
+* Scalable messaging platform built with **MERN Stack** and **Socket.io** for instant, bi-directional communication.
 
 #### [Blog Web App](https://github.com/krit-vardhan-mishra/blog-web-app) | *Full-Stack Web*
 * Full-stack blogging platform with authentication, error boundaries, and modern React architecture.
@@ -29,21 +45,9 @@
 * Redesigned the "Center for Unlearning and Learning" site using **Next.js 15** and TypeScript.
 * Optimized performance via **SSG (Static Site Generation)** and Tailwind CSS.
 
-#### [Real-Time Chat App](https://github.com/krit-vardhan-mishra/real-time-chat-app) | *Featured*
-* Scalable messaging platform built with **MERN Stack** and **Socket.io** for instant, bi-directional communication.
-
 #### [Well-being Waitlist](https://github.com/krit-vardhan-mishra/Well-being-Waitlist) | *Hospital Management*
 * Built a patient prioritization system using **Spring-Boot** and React.
 * Automated emergency level assignment using a Python AI model.
-
-### 📱 Mobile Development
-#### [Sarathi-Ai](https://github.com/krit-vardhan-mishra/Sarathi-Ai) | *Flutter & AI Integration*
-* Developed an AI-driven career guidance platform for Indian students (Grades 8-12).
-* Integrated a recommendation engine for personalized career paths and mentor feedback loops.
-
-#### [SyncTax](https://github.com/krit-vardhan-mishra/SyncTax) | *ML-Based Music Player*
-* Architected an **offline-first** Android player with privacy-preserving, on-device ML.
-* Used **Chaquopy** to run Python-based recommendation models directly on Kotlin agents.
 
 ### 💻 DSA Practice & Competitive Programming
 #### [Kunal Kushwaha DSA Bootcamp](https://github.com/krit-vardhan-mishra/Kunal-Kushwaha-DSA-Bootcamp-Assignment)
@@ -64,44 +68,33 @@
 ---
 
 ## 📊 GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=krit-vardhan-mishra&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true" width="400" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=krit-vardhan-mishra&theme=discord_old_blurple&hide_border=false" width="400" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krit-vardhan-mishra&amp;theme=discord_old_blurple&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=krit-vardhan-mishra&amp;theme=discord_old_blurple&amp;hide_border=false" width="48%" />
 </p>
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=krit-vardhan-mishra&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=krit-vardhan-mishra&amp;theme=discord_old_blurple&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 🎓 Education
 * **B.Tech, Computer Science & Engineering** | Phonics Group Of Institutions, Roorkee (2023 – 2027)
-* **Senior Secondary (XII)** | Bal Mandir Sec School, Haridwar (61.50%)
-* **Secondary (X)** | Police Modern School Welfare Society, Haridwar (75.20%)
+* **Senior Secondary (XII)** | Bal Mandir Sec School, Haridwar (1st Division)
+* **Secondary (X)** | Police Modern School Welfare Society, Haridwar (1st Division with Distinction)
 
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=krit-vardhan-mishra&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=krit-vardhan-mishra&amp;limit=5&amp;theme=discord_old_blurple&amp;combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</p>
 
 ---
 
 <p align="center">
   <i>"Clean code is not written, it is evolved."</i>
 </p>
-
-
-<!--
-**krit-vardhan-mishra/krit-vardhan-mishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
