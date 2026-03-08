@@ -13,23 +13,23 @@
 ## 🚀 Projects
 
 ### 📱 Mobile Development
-#### [Akatsuki](https://github.com/krit-vardhan-mishra/Akatsuki) | *Android Security & AI*
-* Autonomous, on-device security agent learning behavioral patterns to protect mobile identity.
-* Samsung Knox Integration with zero-cloud dependencies for extreme privacy.
+#### [SyncTax](https://github.com/krit-vardhan-mishra/SyncTax) | *ML-Based Music Player*
+* Architected an **offline-first** Android player with privacy-preserving, on-device ML.
+* Used **Chaquopy** to run Python-based recommendation models directly on Kotlin agents.
 
 #### [File-Flip](https://github.com/krit-vardhan-mishra/File-Flip) | *Android & Productivity*
 * An offline Android editor and converter. Edit Markdown, JSON, CSV and more.
 * Features in-app previews and styled PDF exports for ultimate productivity.
-
-#### [SyncTax](https://github.com/krit-vardhan-mishra/SyncTax) | *ML-Based Music Player*
-* Architected an **offline-first** Android player with privacy-preserving, on-device ML.
-* Used **Chaquopy** to run Python-based recommendation models directly on Kotlin agents.
 
 #### [Sarathi-Ai](https://github.com/krit-vardhan-mishra/ai-agent) | *Flutter & FastAPI Backend*
 * Developed an AI-driven career guidance platform leveraging RAG and Bhagavad Gita wisdom.
 * Integrated a robust Python backend with a recommendation engine for precise career paths.
 
 ### 🌐 Web Development
+#### [Blog Web App](https://github.com/krit-vardhan-mishra/blog-web-app) | *Full-Stack Web*
+* Full-stack blogging platform with authentication, error boundaries, and modern React architecture.
+* Features user authentication and content management.
+
 #### [Bank-Kiosk](https://github.com/krit-vardhan-mishra/bank-kiosk) | *AI & Multimodal Integration*
 * A comprehensive banking AI kiosk and agent dashboard for seamless customer interactions.
 * Integrates RAG, multimodal (voice and text), and multilingual support for Indian languages.
@@ -44,10 +44,6 @@
 
 #### [Real-Time Chat App](https://github.com/krit-vardhan-mishra/real-time-chat-app) | *Featured*
 * Scalable messaging platform built with **MERN Stack** and **Socket.io** for instant, bi-directional communication.
-
-#### [Blog Web App](https://github.com/krit-vardhan-mishra/blog-web-app) | *Full-Stack Web*
-* Full-stack blogging platform with authentication, error boundaries, and modern React architecture.
-* Features user authentication and content management.
 
 #### [Incisive](https://github.com/krit-vardhan-mishra/incisive-cul-private) | *Full-Stack Web*
 * Redesigned the "Center for Unlearning and Learning" site using **Next.js 15** and TypeScript.
