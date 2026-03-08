@@ -13,6 +13,10 @@
 ## 🚀 Projects
 
 ### 📱 Mobile Development
+#### [Akatsuki](https://github.com/krit-vardhan-mishra/Akatsuki) | *Android Security & AI*
+* Autonomous, on-device security agent learning behavioral patterns to protect mobile identity.
+* Samsung Knox Integration with zero-cloud dependencies for extreme privacy.
+
 #### [File-Flip](https://github.com/krit-vardhan-mishra/File-Flip) | *Android & Productivity*
 * An offline Android editor and converter. Edit Markdown, JSON, CSV and more.
 * Features in-app previews and styled PDF exports for ultimate productivity.
@@ -21,14 +25,18 @@
 * Architected an **offline-first** Android player with privacy-preserving, on-device ML.
 * Used **Chaquopy** to run Python-based recommendation models directly on Kotlin agents.
 
-#### [Sarathi-Ai](https://github.com/krit-vardhan-mishra/Sarathi-Ai) | *Flutter & AI Integration*
-* Developed an AI-driven career guidance platform for Indian students (Grades 8-12).
-* Integrated a recommendation engine for personalized career paths and mentor feedback loops.
+#### [Sarathi-Ai](https://github.com/krit-vardhan-mishra/ai-agent) | *Flutter & FastAPI Backend*
+* Developed an AI-driven career guidance platform leveraging RAG and Bhagavad Gita wisdom.
+* Integrated a robust Python backend with a recommendation engine for precise career paths.
 
 ### 🌐 Web Development
 #### [Bank-Kiosk](https://github.com/krit-vardhan-mishra/bank-kiosk) | *AI & Multimodal Integration*
 * A comprehensive banking AI kiosk and agent dashboard for seamless customer interactions.
 * Integrates RAG, multimodal (voice and text), and multilingual support for Indian languages.
+
+#### [Syllabus Genie](https://github.com/krit-vardhan-mishra/syllabus-genie) | *Full-Stack AI Application*
+* AI-powered platform for syllabus analysis, helping students parse material efficiently.
+* Built with **React**, **Supabase**, and **Gemini 2.5 Flash** with streaming chat capabilities.
 
 #### [Campus-Whisper](https://github.com/krit-vardhan-mishra/Campus-Whisper) | *Real-time Communications*
 * Real-time anonymous campus chat application with dynamic UI. 
@@ -70,13 +78,13 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krit-vardhan-mishra&amp;theme=discord_old_blurple&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=krit-vardhan-mishra&amp;theme=discord_old_blurple&amp;hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krit-vardhan-mishra&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=krit-vardhan-mishra&theme=discord_old_blurple&hide_border=false" width="48%" />
 </p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krit-vardhan-mishra&amp;theme=discord_old_blurple&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=krit-vardhan-mishra&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -90,7 +98,7 @@
 
 ### 🔝 Top Contributed Repo
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=krit-vardhan-mishra&amp;limit=5&amp;theme=discord_old_blurple&amp;combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=krit-vardhan-mishra&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
 
 ---
