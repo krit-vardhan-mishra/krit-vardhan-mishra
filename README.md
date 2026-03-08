@@ -76,16 +76,13 @@
 ---
 
 ## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krit-vardhan-mishra&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=krit-vardhan-mishra&theme=discord_old_blurple&hide_border=false" width="48%" />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=krit-vardhan-mishra&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true" width="400" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=krit-vardhan-mishra&theme=discord_old_blurple&hide_border=false" width="400" />
 </p>
 
 ### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krit-vardhan-mishra&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=krit-vardhan-mishra&theme=discord_old_blurple&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -93,13 +90,6 @@
 * **B.Tech, Computer Science & Engineering** | Phonics Group Of Institutions, Roorkee (2023 – 2027)
 * **Senior Secondary (XII)** | Bal Mandir Sec School, Haridwar (1st Division)
 * **Secondary (X)** | Police Modern School Welfare Society, Haridwar (1st Division with Distinction)
-
----
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=krit-vardhan-mishra&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
 
 ---
 
