@@ -26,32 +26,32 @@
 * Integrated a robust Python backend with a recommendation engine for precise career paths.
 
 ### 🌐 Web Development
-#### [Blog Web App](https://github.com/krit-vardhan-mishra/blog-web-app) | *Full-Stack Web*
+#### [Blog Web App](https://github.com/krit-vardhan-mishra/blog-web-app) | *Full-Stack Web* | [Live Link](https://blog-web-app-ngmh.onrender.com/)
 * Full-stack blogging platform with authentication, error boundaries, and modern React architecture.
 * Features user authentication and content management.
 
-#### [Bank-Kiosk](https://github.com/krit-vardhan-mishra/bank-kiosk) | *AI & Multimodal Integration*
+#### [Bank-Kiosk](https://github.com/krit-vardhan-mishra/bank-kiosk) | *AI & Multimodal Integration* | KIOSK based project
 * A comprehensive banking AI kiosk and agent dashboard for seamless customer interactions.
 * Integrates RAG, multimodal (voice and text), and multilingual support for Indian languages.
 
-#### [Syllabus Genie](https://github.com/krit-vardhan-mishra/syllabus-genie) | *Full-Stack AI Application*
-* AI-powered platform for syllabus analysis, helping students parse material efficiently.
-* Built with **React**, **Supabase**, and **Gemini 2.5 Flash** with streaming chat capabilities.
-
-#### [Campus-Whisper](https://github.com/krit-vardhan-mishra/Campus-Whisper) | *Real-time Communications*
+#### [Campus-Whisper](https://github.com/krit-vardhan-mishra/Campus-Whisper) | *Real-time Communications* | [Live Link](https://campus-whisper.onrender.com/)
 * Real-time anonymous campus chat application with dynamic UI. 
 * Highly scalable platform that thrives on completely unfiltered, twisting stories across users.
 
-#### [Real-Time Chat App](https://github.com/krit-vardhan-mishra/real-time-chat-app) | *Featured*
+#### [Real-Time Chat App](https://github.com/krit-vardhan-mishra/real-time-chat-app) | *Featured* | [Live Link](https://krit-real-time-chat-app.up.railway.app/)
 * Scalable messaging platform built with **MERN Stack** and **Socket.io** for instant, bi-directional communication.
 
-#### [Incisive](https://github.com/krit-vardhan-mishra/incisive-cul-private) | *Full-Stack Web*
+#### [Incisive](https://github.com/krit-vardhan-mishra/incisive-cul-private) | *Full-Stack Web* | [Live Link](https://incisive-cul-private.vercel.app/)
 * Redesigned the "Center for Unlearning and Learning" site using **Next.js 15** and TypeScript.
 * Optimized performance via **SSG (Static Site Generation)** and Tailwind CSS.
 
-#### [Well-being Waitlist](https://github.com/krit-vardhan-mishra/Well-being-Waitlist) | *Hospital Management*
+#### [Well-being Waitlist](https://github.com/krit-vardhan-mishra/Well-being-Waitlist) | *Hospital Management* | Local System Based Project
 * Built a patient prioritization system using **Spring-Boot** and React.
 * Automated emergency level assignment using a Python AI model.
+
+#### [Watch List](https://krit-vardhan-mishra.github.io/watch-list/) | *Full-Stack Web* | [Live Link](https://krit-vardhan-mishra.github.io/watch-list/)
+* Notihing just my watch list.
+* Indevelopment.
 
 ### 💻 DSA Practice & Competitive Programming
 #### [Kunal Kushwaha DSA Bootcamp](https://github.com/krit-vardhan-mishra/Kunal-Kushwaha-DSA-Bootcamp-Assignment)
