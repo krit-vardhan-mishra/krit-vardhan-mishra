@@ -26,7 +26,7 @@
 * Integrated a robust Python backend with a recommendation engine for precise career paths.
 
 ### 🌐 Web Development
-#### [Blog Web App](https://github.com/krit-vardhan-mishra/blog-web-app) | *Full-Stack Web* | [Live Link](https://blog-web-app-ngmh.onrender.com/)
+#### [Blog Web App](https://github.com/krit-vardhan-mishra/blog-web-app) | *Full-Stack Web* | [Live Link](https://blog-web-app-krit.vercel.app/)
 * Full-stack blogging platform with authentication, error boundaries, and modern React architecture.
 * Features user authentication and content management.
 
@@ -34,7 +34,7 @@
 * A comprehensive banking AI kiosk and agent dashboard for seamless customer interactions.
 * Integrates RAG, multimodal (voice and text), and multilingual support for Indian languages.
 
-#### [Campus-Whisper](https://github.com/krit-vardhan-mishra/Campus-Whisper) | *Real-time Communications* | [Live Link](https://campus-whisper.onrender.com/)
+#### [Campus-Whisper](https://github.com/krit-vardhan-mishra/Campus-Whisper) | *Real-time Communications* | [Live Link](https://campus-whisper-kohl.vercel.app/)
 * Real-time anonymous campus chat application with dynamic UI. 
 * Highly scalable platform that thrives on completely unfiltered, twisting stories across users.
 
