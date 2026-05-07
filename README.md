@@ -56,7 +56,7 @@ I am working towards becoming a **multi-platform mobile developer** — capable 
 * Features in-app previews and styled PDF exports for ultimate productivity.
 * **Tech:** `Kotlin` `Jetpack` `iText PDF` `File Provider API`
 
-#### [Sarathi-Ai](https://github.com/krit-vardhan-mishra/ai-agent) | *Flutter & FastAPI Backend*
+#### [Sarathi-Ai](https://github.com/krit-vardhan-mishra/sarathy.ai) | *Flutter & FastAPI Backend*
 
 * Developed an AI-driven career guidance platform leveraging RAG and Bhagavad Gita wisdom.
 * Integrated a robust Python backend with a recommendation engine for precise career paths.
